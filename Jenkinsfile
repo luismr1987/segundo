@@ -25,7 +25,7 @@ pipeline {
 }
 post{
     always{
-        echo 'ya termine'
+        echo 'ya termine otra vez'
     }
     success{
         echo 'todo salio bien'
