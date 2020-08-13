@@ -1,0 +1,6 @@
+.vagrant
+jenkins
+node
+*.box
+fsmachine
+node_modules/
