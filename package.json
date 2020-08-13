@@ -2,11 +2,12 @@
   "name": "segundo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "node.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
+    "start": "node node.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
